@@ -8,7 +8,7 @@ public class LetterVerifyA {
         String texto = scanner.nextLine();
 
 
-        // Converter toda a string para minúsculas
+        
         texto = texto.toLowerCase();
 
         int contador = 0;
